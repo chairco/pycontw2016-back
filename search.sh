@@ -7,6 +7,10 @@
 # This script is really basic and NOT optimized, and
 # should not be used for professional purpose :)
 
+# command:
+# httrack https://tw.pycon.org/2016/zh-hant/ -O ./tw.pycon.org.2016.zh-hant -N100 −%i0 -I0 --max-rate 0 --disable-security-limits --near -v
+
+
 TESTSITE="https://tw.pycon.org/2016/"
 
 # Create an index if necessary
