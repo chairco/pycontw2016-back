@@ -1,408 +1,746 @@
 <!DOCTYPE html>
-
-
 <!--[if lt IE 7]>      <html lang="zh-hant" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html lang="zh-hant" class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="zh-hant" class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="zh-hant" class="no-js"> <!--<![endif]-->
-
-<!-- Mirrored from tw.pycon.org/2016/zh-hant/events/talks/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2016 08:39:43 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
-<head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="description" content="" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/png" href="../../../static/images/favicon_pyconTW_32x32.png">
-  
-    <meta property="og:description" content="" />
-    <meta property="og:image" content="../../../static/images/PyConTW2016_facebook_shareImage.png" />
-  
-  <link rel="stylesheet" href="../../../static/CACHE/css/21d1c305ea3a.css" type="text/css" />
-  <link href='../../../../css7dfd.css?family=Roboto:300,400,500' rel='stylesheet' type='text/css'>
-  <link href='../../../../earlyaccess/notosanstc.css' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="../../../../font-awesome/4.4.0/css/font-awesome.min.css">
-  
-  <!--[if lt IE 9]>
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="zh-hant">
+ <!--<![endif]-->
+ <!-- Mirrored from tw.pycon.org/2016/zh-hant/events/talks/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2016 08:39:43 GMT -->
+ <!-- Added by HTTrack -->
+ <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+ <!-- /Added by HTTrack -->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="" name="description"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <link href="../../../static/images/favicon_pyconTW_32x32.png" rel="icon" type="image/png">
+   <meta content="" property="og:description"/>
+   <meta content="../../../static/images/PyConTW2016_facebook_shareImage.png" property="og:image"/>
+   <link href="../../../static/CACHE/css/21d1c305ea3a.css" rel="stylesheet" type="text/css"/>
+   <link href="../../../../css7dfd.css?family=Roboto:300,400,500" rel="stylesheet" type="text/css">
+    <link href="../../../../earlyaccess/notosanstc.css" rel="stylesheet" type="text/css">
+     <link href="../../../../font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+      <!--[if lt IE 9]>
   <script src="/2016/static/js/html5shiv.min.js"></script>
   <script src="/2016/static/js/respond.min.js"></script>
   <![endif]-->
-  <!-- justfont webfont -->
-  <!-- <script src="/2016/static/js/vendors/justfont.js"></script> -->
-  <title>演講 | PyCon Taiwan 2016</title>
-</head>
-
-
-<body class="">
-
-  
-
-
-  
-
-
-<nav class="navbar navbar-default navbar-fe navbar-site">
-  <div class="clearfix container-fluid">
+      <!-- justfont webfont -->
+      <!-- <script src="/2016/static/js/vendors/justfont.js"></script> -->
+      <title>
+       演講 | PyCon Taiwan 2016
+      </title>
+     </link>
+    </link>
+   </link>
+  </link>
+ </head>
+ <body class="">
+  <nav class="navbar navbar-default navbar-fe navbar-site">
+   <div class="clearfix container-fluid">
     <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
-            <span class="sr-only">展開導覽列</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-        </button>
-
-        <a class="navbar-brand" href="../../index.html">
-            <img width="133" height="24" src="../../../static/images/logo-tiny--reverse%402x.png"
-                 class="logo hidden-xs" alt="logo">
-            <img width="42" height="30" src="../../../static/images/LogoIcon_white%402x.png"
-                class="logo visible-xs-inline" alt="logo">
-        </a>
+     <button class="navbar-toggle collapsed" data-target="#navbar" data-toggle="collapse" type="button">
+      <span class="sr-only">
+       展開導覽列
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+     </button>
+     <a class="navbar-brand" href="../../index.html">
+      <img alt="logo" class="logo hidden-xs" height="24" src="../../../static/images/logo-tiny--reverse%402x.png" width="133">
+       <img alt="logo" class="logo visible-xs-inline" height="30" src="../../../static/images/LogoIcon_white%402x.png" width="42">
+       </img>
+      </img>
+     </a>
     </div>
-
-
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="navbar">
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ul class="nav navbar-nav navbar-nav-hover">
-  <li class="dropdown">
-    <a href="#" class=" dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">關於</a>
-    <ul class="dropdown-menu">
-      <li><a href="../../about/pycontw/index.html">PyCon TW</a></li>
-      <li><a href="../../about/code-of-conduct/index.html">行為準則</a></li>
-      <li><a href="../../about/staff/index.html">工作人員</a></li>
-    </ul>
-  </li>
-  <li class="dropdown">
-    <a href="#" class="active dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">活動</a>
-    <ul class="dropdown-menu">
-      <li><a href="../overview/index.html">總覽</a></li>
-      <li><a href="../schedule/index.html">Schedule</a></li>
-      <li><a href="../keynotes/index.html">主題演講</a></li>
-			<li><a href="index.html">演講</a></li>
-      <li><a href="../sprints/index.html">Sprints</a></li>
-      <li><a href="../bof/index.html">BoF</a></li>
-      <li><a href="../pyday/index.html">PyDay</a></li>
-      <li><a href="../tutorials/index.html">教學</a></li>
-    </ul>
-  </li>
-  <li class="dropdown">
-      <a href="#" class=" dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">會場</a>
-      <ul class="dropdown-menu">
-          <li><a href="../../venue/index.html">會場</a></li>
-          <li><a href="../../venue/accommodation/index.html">住宿</a></li>
-      </ul>
-  </li><!-- /.dropdown -->
-  
-  <li class="dropdown">
-    <a href="#" class=" dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">贊助</a>
-    <ul class="dropdown-menu">
-      <li><a href="../../sponsors/index.html">贊助夥伴</a></li>
-      <li><a href="http://pycontw.kktix.cc/events/pycontw2016patron" target="_blank">個人贊助</a></li>
-    </ul>
-  </li>
-  <li class="dropdown">
-      <a href="#" class=" dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">註冊</a>
-      <ul class="dropdown-menu">
-          <li><a href="../../registration/ticket-info/index.html">售票資訊</a></li>
-          <li><a href="../../registration/financial-aid/index.html">財務補助</a></li>
-      </ul>
-  </li><!-- /.dropdown -->
-  <li><a href="http://pycontw.blogspot.tw/" target="_blank">部落格</a></li>
-  <li><a href="../../dashboard/index.html" target="_blank"><span class="em">控制面板</span></a></li>
-</ul>
-
-<div class="social pull-right">
-  <a href="https://www.facebook.com/pycontw" class="social-btn" target="_blank">
-    <i class="fa fa-facebook fa-lg"></i>
-  </a>
-  <a href="https://twitter.com/pycontw" class="social-btn" target="_blank">
-    <i class="fa fa-twitter fa-lg"></i>
-  </a>
-    <a href="mailto:organizers@pycon.tw" class="social-btn" target="_blank">
-        <i class="fa fa-envelope"></i>
-    </a>
-</div>
-
-
-
-        
-        
-        
-
-        <ul class="nav navbar-nav navbar-lang navbar-right">
-          <li class="dropdown">
-            <a href="#" class="dropdown-toggle btn" data-toggle="dropdown" role="button"
-               aria-haspopup="true" aria-expanded="false"> 繁體中文
-               <span class="caret"></span>
-            </a>
-            <ul class="dropdown-menu">
-              
-              <li class="active">
-                <a href="#" data-lang="zh-hant">
-                  繁體中文
-                </a>
-              </li>
-              
-              <li >
-                <a href="#" data-lang="en-us">
-                  English (US)
-                </a>
-              </li>
-              
-            </ul>
-          </li>
-          
-        </ul>
-
-        <!-- Fallback version of form selection -->
-        <form class="navbar-form navbar-right navbar-lang"
-              action="https://tw.pycon.org/2016/set-language/" method="post">
-            <input type='hidden' name='csrfmiddlewaretoken' value='qNTrtnJtGQ54DS7A9ocakvPukTZiK3uL' />
-            <input type="hidden" name="next" value="/2016/events/talks/">
-            <select id="language-select" name="language" class="form-control input-sm">
-                
-                
-                
-                    <option value="zh-hant"
-                            selected>
-                        繁體中文
-                    </option>
-                
-                    <option value="en-us"
-                            >
-                        English (US)
-                    </option>
-                
-            </select>
-            <noscript>
-                <button type="submit" class="btn">修改</button>
-            </noscript>
-        </form>
-      </div>
-
-
+     <ul class="nav navbar-nav navbar-nav-hover">
+      <li class="dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class=" dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+        關於
+       </a>
+       <ul class="dropdown-menu">
+        <li>
+         <a href="../../about/pycontw/index.html">
+          PyCon TW
+         </a>
+        </li>
+        <li>
+         <a href="../../about/code-of-conduct/index.html">
+          行為準則
+         </a>
+        </li>
+        <li>
+         <a href="../../about/staff/index.html">
+          工作人員
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="active dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+        活動
+       </a>
+       <ul class="dropdown-menu">
+        <li>
+         <a href="../overview/index.html">
+          總覽
+         </a>
+        </li>
+        <li>
+         <a href="../schedule/index.html">
+          Schedule
+         </a>
+        </li>
+        <li>
+         <a href="../keynotes/index.html">
+          主題演講
+         </a>
+        </li>
+        <li>
+         <a href="index.html">
+          演講
+         </a>
+        </li>
+        <li>
+         <a href="../sprints/index.html">
+          Sprints
+         </a>
+        </li>
+        <li>
+         <a href="../bof/index.html">
+          BoF
+         </a>
+        </li>
+        <li>
+         <a href="../pyday/index.html">
+          PyDay
+         </a>
+        </li>
+        <li>
+         <a href="../tutorials/index.html">
+          教學
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class=" dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+        會場
+       </a>
+       <ul class="dropdown-menu">
+        <li>
+         <a href="../../venue/index.html">
+          會場
+         </a>
+        </li>
+        <li>
+         <a href="../../venue/accommodation/index.html">
+          住宿
+         </a>
+        </li>
+       </ul>
+      </li>
+      <!-- /.dropdown -->
+      <li class="dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class=" dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+        贊助
+       </a>
+       <ul class="dropdown-menu">
+        <li>
+         <a href="../../sponsors/index.html">
+          贊助夥伴
+         </a>
+        </li>
+        <li>
+         <a href="http://pycontw.kktix.cc/events/pycontw2016patron" target="_blank">
+          個人贊助
+         </a>
+        </li>
+       </ul>
+      </li>
+      <li class="dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class=" dropdown-toggle" data-toggle="dropdown" href="#" role="button">
+        註冊
+       </a>
+       <ul class="dropdown-menu">
+        <li>
+         <a href="../../registration/ticket-info/index.html">
+          售票資訊
+         </a>
+        </li>
+        <li>
+         <a href="../../registration/financial-aid/index.html">
+          財務補助
+         </a>
+        </li>
+       </ul>
+      </li>
+      <!-- /.dropdown -->
+      <li>
+       <a href="http://pycontw.blogspot.tw/" target="_blank">
+        部落格
+       </a>
+      </li>
+     </ul>
+     <div class="social pull-right">
+      <a class="social-btn" href="https://www.facebook.com/pycontw" target="_blank">
+       <i class="fa fa-facebook fa-lg">
+       </i>
+      </a>
+      <a class="social-btn" href="https://twitter.com/pycontw" target="_blank">
+       <i class="fa fa-twitter fa-lg">
+       </i>
+      </a>
+      <a class="social-btn" href="mailto:organizers@pycon.tw" target="_blank">
+       <i class="fa fa-envelope">
+       </i>
+      </a>
+     </div>
+     <ul class="nav navbar-nav navbar-lang navbar-right">
+      <li class="dropdown">
+       <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle btn" data-toggle="dropdown" href="#" role="button">
+        繁體中文
+        <span class="caret">
+        </span>
+       </a>
+       <ul class="dropdown-menu">
+        <li class="active">
+         <a data-lang="zh-hant" href="#">
+          繁體中文
+         </a>
+        </li>
+        <li>
+         <a data-lang="en-us" href="#">
+          English (US)
+         </a>
+        </li>
+       </ul>
+      </li>
+     </ul>
+     <!-- Fallback version of form selection -->
+     <form action="https://tw.pycon.org/2016/set-language/" class="navbar-form navbar-right navbar-lang" method="post">
+      <input name="csrfmiddlewaretoken" type="hidden" value="qNTrtnJtGQ54DS7A9ocakvPukTZiK3uL"/>
+      <input name="next" type="hidden" value="/2016/events/talks/">
+       <select class="form-control input-sm" id="language-select" name="language">
+        <option selected="" value="zh-hant">
+         繁體中文
+        </option>
+        <option value="en-us">
+         English (US)
+        </option>
+       </select>
+       <noscript>
+        <button class="btn" type="submit">
+         修改
+        </button>
+       </noscript>
+      </input>
+     </form>
     </div>
-    <!-- /.navbar-collapse -->
-  </div>
-  <!-- /.container-fluid -->
-</nav>
-
-
-
-<div class="content-page-title">
-	<div class="content-container container">
-		<h1>演講</h1>
-	</div>
-</div>
-
-<div class="content-container container content-page-content">
-	
-
-<div class="pycon-list">
-	<div class="pycon-list-item text-theme-highlight">
-		
-		You can check out the program schedule <a class="text-emphasize" href="../schedule/index.html">here</a>.
-	</div>
-	<div class="pycon-list-item text-theme-highlight">
-		議程時間表會<span class="text-emphasize">隨狀況更新</span>。請經常查看本頁以取得最新的版本。
-	</div>
-</div>
-
-
-<h2>一般演講</h2>
-<ul class="talk-list">
-	
-	
-	<li><p><a class="proposal-title" href="../talk/27349121996161025/index.html"><cite>Analyzing Chinese Lyrics with Python</cite></a> Andy Dai</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/56868979343360019/index.html"><cite>Applying Deep Learning in Content Based Information Retrieval System</cite></a> Eddie Lin 林子耘、林志豪 (Chris Lin)</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/67002934621110318/index.html"><cite>Authentication with JSON Web Tokens</cite></a> Shuhsi Lin</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/58446570282024986/index.html"><cite>Boost Maintainability</cite></a> Mosky Liu</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/68823578639859763/index.html"><cite>Building Distributed System with Celery on Docker Swarm</cite></a> Wei Lin</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/68637427517882417/index.html"><cite>Coaching Teens to Learn Python</cite></a> Edward S. Duh</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69186595164520503/index.html"><cite>Continuous Deployment in AWS Lambda and Python</cite></a> Suiting</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/56874546946375700/index.html"><cite>Deep Learning with Python &amp; TensorFlow</cite></a> Ian Lewis</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/70169571679535177/index.html"><cite>Essential TDD (Test-Driven Development) for Pythoners</cite></a> 曾君宇</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69307878699171897/index.html"><cite>Ethereum 漲好快！快用 pyethapp 玩耍區塊鏈貨幣與建立智能契約</cite></a> 梁智程</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/58534680193925150/index.html"><cite>First try for CAS, SymPy with codegen</cite></a> Chiu-Hsiang Hsu</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69477625352945724/index.html"><cite>From Pandas to GeoPandas - 地理資料處理與分析</cite></a> Ni Bing-Si</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69816036404232254/index.html"><cite>Geo processing with Python: How to convert, clean, aggregate and compress your geo-data for web</cite></a> Juha Suomalainen</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/58550195947831327/index.html"><cite>Grow Python User Groups</cite></a> Yung-Yu Chen、Keith Yang</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/39346130420498441/index.html"><cite>How to create high available Pycon application with MySQL techniques</cite></a> 杜修文</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/58488304638623773/index.html"><cite>Immutable infrastructure 介紹與案例介紹：以 OpenStack Kolla 為例</cite></a> Kuo-tung Kao</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/58487583520325660/index.html"><cite>Interaction between Python and Java</cite></a> 李枫</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/56754637675429904/index.html"><cite>Jupyter kernel: How to speak in another language</cite></a> 廖偉涵 Adrian Liaw</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/52458110886871052/index.html"><cite>Learning the Basics</cite></a> Isaac Li</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/27429730160476163/index.html"><cite>Neural Art -- Become a Great Artist by Deep Learning Algorithm</cite></a> Mark Chang</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69816515947397183/index.html"><cite>Python 的 50 道陰影</cite></a> Tim Hsu</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/67738180727603248/index.html"><cite>Reactive Programming in Python</cite></a> Keith Yang</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/56770512839245841/index.html"><cite>RobotFramework - An ATDD framework</cite></a> Apua Juan</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69099923227803701/index.html"><cite>Strategies for concurrency and parallelism in Python</cite></a> 洪鈺庭</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/70022152522301510/index.html"><cite>Time series prediction implement on Python</cite></a> 古宣佑 Hsuanyo、Trudie</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/59143618476113957/index.html"><cite>We Made the PyCon TW 2016 Website</cite></a> Tzu-ping Chung</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69113918303240246/index.html"><cite>Write your own micro data processing framework in python</cite></a> David Chen</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69195601836769336/index.html"><cite>You Might Not Want Async (in Python)</cite></a> Tzu-ping Chung</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/66630011804713004/index.html"><cite>什麼是色彩管理 &amp; 用 Python 自幹一個好嗎 ?</cite></a> Kilik Kuo</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/42830763023925258/index.html"><cite>分享兒童程式教學經驗  Teach Kids to Learn Python</cite></a> Eric Huang</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/27419967834030082/index.html"><cite>多語系 Sphinx 與 Python 官方文件中文化</cite></a> Liang-Bo Wang</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/68743273514008626/index.html"><cite>大型互動展覽的 Python 應用</cite></a> 陳炯廷</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/57694625669840919/index.html"><cite>如何打造關鍵字精靈</cite></a> 施晨揚</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/62015679733170217/index.html"><cite>機器學習在搜尋排序上的應用</cite></a> Jiawei Chen</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/39018216764211208/index.html"><cite>用Google Cloud Platform玩交通資料分析</cite></a> 柯維然</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/35734163478806534/index.html"><cite>用Numpy做一個自己的股票分析系統</cite></a> PF</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/70089712156541000/index.html"><cite>轉轉轉好運旺來一起來之雲端轉檔大作戰！</cite></a> 林進錕</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69843418095812674/index.html"><cite>連淡水阿嬤都聽得懂的機器學習套件入門 scikit-learn</cite></a> Cicilia Chia-ying Lee</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/53334812580118541/index.html"><cite>還在用過時的 OTP 保護帳號？來看看 FIDO U2F 吧！</cite></a> 吳忠憲</p></li>
-	
-	
-	<li><p><a class="proposal-title" href="../talk/69827266518974528/index.html"><cite>那些年，我用 Django Admin 接的案子</cite></a> Michelle Leu</p></li>
-	
-</ul>
-
-
-
-<h2>贊助演講</h2>
-<ul class="talk-list">
-	
-	<li><p><a class="proposal-title" href="../talk/sponsored/2b-or-not-2b-blockchain-and-big-data/index.html">2B or not 2B (Blockchain and Big data): Open-source blockchain implementations and graph/data analysis in Python</a> by 廖世偉</p></li>
-	
-	<li><p><a class="proposal-title" href="../talk/sponsored/ipython-jupyter-for-quantitative-finance-analysis/index.html">IPython and Jupyter for Quantitative Finance Analysis</a> by Delaney Granizo-Mackenzie</p></li>
-	
-	<li><p><a class="proposal-title" href="../talk/sponsored/kyper-cloud-daas/index.html">從數據產生洞見，透過Kyper雲端DaaS平台 (From data to insight via Kyper DaaS)</a> by Theon Lin</p></li>
-	
-	<li><p><a class="proposal-title" href="../talk/sponsored/%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98%e7%ac%ac%e4%b8%89%e6%96%b9%e6%94%af%e4%bb%98%e6%b3%95%e5%be%8b%e8%ad%b0%e9%a1%8c/index.html">電子支付第三方支付法律議題</a> by 楊芝青 Jamie Yang</p></li>
-	
-</ul>
-
-
-
-</div>
-
-
-<footer class="footer container-fluid text-center">
-    <div class="row clearfix">
-        <div class="col-md-2">2016 PyCon Taiwan</div>
-        <div class="col-md-8 hidden-xs hidden-sm">
-            <img width="133" height="24" src="../../../static/images/Logo_pycontw16_blue_footer%402x.png" class="logo">
-        </div>
-        <div class="social col-md-2 text-center">
-            <a href="https://www.facebook.com/pycontw" class="social-btn" target="_blank">
-                <i class="fa fa-facebook fa-lg"></i>
-            </a>
-            <a href="https://twitter.com/pycontw" class="social-btn" target="_blank">
-                <i class="fa fa-twitter fa-lg"></i>
-            </a>
-            <a href="mailto:organizers@pycon.tw" class="social-btn" target="_blank">
-                <i class="fa fa-envelope"></i>
-            </a>
-        </div>
-    </div>
-</footer>
-
-
-
-
-  <script type="text/javascript" src="../../../static/CACHE/js/6c8feda299eb.js"></script>
-  
-
-</body>
-
-<!-- Mirrored from tw.pycon.org/2016/zh-hant/events/talks/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2016 08:39:43 GMT -->
+   </div>
+   <!-- /.navbar-collapse -->
+  </nav>
+ </body>
 </html>
+<!-- /.container-fluid -->
+<div class="content-page-title">
+ <div class="content-container container">
+  <h1>
+   演講
+  </h1>
+ </div>
+</div>
+<div class="content-container container content-page-content">
+ <div class="pycon-list">
+  <div class="pycon-list-item text-theme-highlight">
+   You can check out the program schedule
+   <a class="text-emphasize" href="../schedule/index.html">
+    here
+   </a>
+   .
+  </div>
+  <div class="pycon-list-item text-theme-highlight">
+   議程時間表會
+   <span class="text-emphasize">
+    隨狀況更新
+   </span>
+   。請經常查看本頁以取得最新的版本。
+  </div>
+ </div>
+ <h2>
+  一般演講
+ </h2>
+ <ul class="talk-list">
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/27349121996161025/index.html">
+     <cite>
+      Analyzing Chinese Lyrics with Python
+     </cite>
+    </a>
+    Andy Dai
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/56868979343360019/index.html">
+     <cite>
+      Applying Deep Learning in Content Based Information Retrieval System
+     </cite>
+    </a>
+    Eddie Lin 林子耘、林志豪 (Chris Lin)
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/67002934621110318/index.html">
+     <cite>
+      Authentication with JSON Web Tokens
+     </cite>
+    </a>
+    Shuhsi Lin
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/58446570282024986/index.html">
+     <cite>
+      Boost Maintainability
+     </cite>
+    </a>
+    Mosky Liu
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/68823578639859763/index.html">
+     <cite>
+      Building Distributed System with Celery on Docker Swarm
+     </cite>
+    </a>
+    Wei Lin
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/68637427517882417/index.html">
+     <cite>
+      Coaching Teens to Learn Python
+     </cite>
+    </a>
+    Edward S. Duh
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69186595164520503/index.html">
+     <cite>
+      Continuous Deployment in AWS Lambda and Python
+     </cite>
+    </a>
+    Suiting
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/56874546946375700/index.html">
+     <cite>
+      Deep Learning with Python &amp; TensorFlow
+     </cite>
+    </a>
+    Ian Lewis
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/70169571679535177/index.html">
+     <cite>
+      Essential TDD (Test-Driven Development) for Pythoners
+     </cite>
+    </a>
+    曾君宇
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69307878699171897/index.html">
+     <cite>
+      Ethereum 漲好快！快用 pyethapp 玩耍區塊鏈貨幣與建立智能契約
+     </cite>
+    </a>
+    梁智程
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/58534680193925150/index.html">
+     <cite>
+      First try for CAS, SymPy with codegen
+     </cite>
+    </a>
+    Chiu-Hsiang Hsu
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69477625352945724/index.html">
+     <cite>
+      From Pandas to GeoPandas - 地理資料處理與分析
+     </cite>
+    </a>
+    Ni Bing-Si
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69816036404232254/index.html">
+     <cite>
+      Geo processing with Python: How to convert, clean, aggregate and compress your geo-data for web
+     </cite>
+    </a>
+    Juha Suomalainen
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/58550195947831327/index.html">
+     <cite>
+      Grow Python User Groups
+     </cite>
+    </a>
+    Yung-Yu Chen、Keith Yang
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/39346130420498441/index.html">
+     <cite>
+      How to create high available Pycon application with MySQL techniques
+     </cite>
+    </a>
+    杜修文
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/58488304638623773/index.html">
+     <cite>
+      Immutable infrastructure 介紹與案例介紹：以 OpenStack Kolla 為例
+     </cite>
+    </a>
+    Kuo-tung Kao
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/58487583520325660/index.html">
+     <cite>
+      Interaction between Python and Java
+     </cite>
+    </a>
+    李枫
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/56754637675429904/index.html">
+     <cite>
+      Jupyter kernel: How to speak in another language
+     </cite>
+    </a>
+    廖偉涵 Adrian Liaw
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/52458110886871052/index.html">
+     <cite>
+      Learning the Basics
+     </cite>
+    </a>
+    Isaac Li
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/27429730160476163/index.html">
+     <cite>
+      Neural Art -- Become a Great Artist by Deep Learning Algorithm
+     </cite>
+    </a>
+    Mark Chang
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69816515947397183/index.html">
+     <cite>
+      Python 的 50 道陰影
+     </cite>
+    </a>
+    Tim Hsu
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/67738180727603248/index.html">
+     <cite>
+      Reactive Programming in Python
+     </cite>
+    </a>
+    Keith Yang
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/56770512839245841/index.html">
+     <cite>
+      RobotFramework - An ATDD framework
+     </cite>
+    </a>
+    Apua Juan
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69099923227803701/index.html">
+     <cite>
+      Strategies for concurrency and parallelism in Python
+     </cite>
+    </a>
+    洪鈺庭
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/70022152522301510/index.html">
+     <cite>
+      Time series prediction implement on Python
+     </cite>
+    </a>
+    古宣佑 Hsuanyo、Trudie
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/59143618476113957/index.html">
+     <cite>
+      We Made the PyCon TW 2016 Website
+     </cite>
+    </a>
+    Tzu-ping Chung
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69113918303240246/index.html">
+     <cite>
+      Write your own micro data processing framework in python
+     </cite>
+    </a>
+    David Chen
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69195601836769336/index.html">
+     <cite>
+      You Might Not Want Async (in Python)
+     </cite>
+    </a>
+    Tzu-ping Chung
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/66630011804713004/index.html">
+     <cite>
+      什麼是色彩管理 &amp; 用 Python 自幹一個好嗎 ?
+     </cite>
+    </a>
+    Kilik Kuo
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/42830763023925258/index.html">
+     <cite>
+      分享兒童程式教學經驗  Teach Kids to Learn Python
+     </cite>
+    </a>
+    Eric Huang
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/27419967834030082/index.html">
+     <cite>
+      多語系 Sphinx 與 Python 官方文件中文化
+     </cite>
+    </a>
+    Liang-Bo Wang
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/68743273514008626/index.html">
+     <cite>
+      大型互動展覽的 Python 應用
+     </cite>
+    </a>
+    陳炯廷
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/57694625669840919/index.html">
+     <cite>
+      如何打造關鍵字精靈
+     </cite>
+    </a>
+    施晨揚
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/62015679733170217/index.html">
+     <cite>
+      機器學習在搜尋排序上的應用
+     </cite>
+    </a>
+    Jiawei Chen
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/39018216764211208/index.html">
+     <cite>
+      用Google Cloud Platform玩交通資料分析
+     </cite>
+    </a>
+    柯維然
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/35734163478806534/index.html">
+     <cite>
+      用Numpy做一個自己的股票分析系統
+     </cite>
+    </a>
+    PF
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/70089712156541000/index.html">
+     <cite>
+      轉轉轉好運旺來一起來之雲端轉檔大作戰！
+     </cite>
+    </a>
+    林進錕
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69843418095812674/index.html">
+     <cite>
+      連淡水阿嬤都聽得懂的機器學習套件入門 scikit-learn
+     </cite>
+    </a>
+    Cicilia Chia-ying Lee
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/53334812580118541/index.html">
+     <cite>
+      還在用過時的 OTP 保護帳號？來看看 FIDO U2F 吧！
+     </cite>
+    </a>
+    吳忠憲
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/69827266518974528/index.html">
+     <cite>
+      那些年，我用 Django Admin 接的案子
+     </cite>
+    </a>
+    Michelle Leu
+   </p>
+  </li>
+ </ul>
+ <h2>
+  贊助演講
+ </h2>
+ <ul class="talk-list">
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/sponsored/2b-or-not-2b-blockchain-and-big-data/index.html">
+     2B or not 2B (Blockchain and Big data): Open-source blockchain implementations and graph/data analysis in Python
+    </a>
+    by 廖世偉
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/sponsored/ipython-jupyter-for-quantitative-finance-analysis/index.html">
+     IPython and Jupyter for Quantitative Finance Analysis
+    </a>
+    by Delaney Granizo-Mackenzie
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/sponsored/kyper-cloud-daas/index.html">
+     從數據產生洞見，透過Kyper雲端DaaS平台 (From data to insight via Kyper DaaS)
+    </a>
+    by Theon Lin
+   </p>
+  </li>
+  <li>
+   <p>
+    <a class="proposal-title" href="../talk/sponsored/%e9%9b%bb%e5%ad%90%e6%94%af%e4%bb%98%e7%ac%ac%e4%b8%89%e6%96%b9%e6%94%af%e4%bb%98%e6%b3%95%e5%be%8b%e8%ad%b0%e9%a1%8c/index.html">
+     電子支付第三方支付法律議題
+    </a>
+    by 楊芝青 Jamie Yang
+   </p>
+  </li>
+ </ul>
+</div>
+<footer class="footer container-fluid text-center">
+ <div class="row clearfix">
+  <div class="col-md-2">
+   2016 PyCon Taiwan
+  </div>
+  <div class="col-md-8 hidden-xs hidden-sm">
+   <img class="logo" height="24" src="../../../static/images/Logo_pycontw16_blue_footer%402x.png" width="133">
+   </img>
+  </div>
+  <div class="social col-md-2 text-center">
+   <a class="social-btn" href="https://www.facebook.com/pycontw" target="_blank">
+    <i class="fa fa-facebook fa-lg">
+    </i>
+   </a>
+   <a class="social-btn" href="https://twitter.com/pycontw" target="_blank">
+    <i class="fa fa-twitter fa-lg">
+    </i>
+   </a>
+   <a class="social-btn" href="mailto:organizers@pycon.tw" target="_blank">
+    <i class="fa fa-envelope">
+    </i>
+   </a>
+  </div>
+ </div>
+</footer>
+<script src="../../../static/CACHE/js/6c8feda299eb.js" type="text/javascript">
+</script>
+<!-- Mirrored from tw.pycon.org/2016/zh-hant/events/talks/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 21 Dec 2016 08:39:43 GMT -->
