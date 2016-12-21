@@ -7,7 +7,7 @@
 # This script is really basic and NOT optimized, and
 # should not be used for professional purpose :)
 
-TESTSITE="https://tw.pycon.org/2016"
+TESTSITE="https://tw.pycon.org/2016/zh-hant/"
 
 # Create an index if necessary
 if ! test -f "index.txt"; then
