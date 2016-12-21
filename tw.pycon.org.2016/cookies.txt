@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+tw.pycon.org	TRUE	/	FALSE	1999999999	csrftoken	C3nLlo923p49AIGFBsQG5Gg5SGSgmukj
+
