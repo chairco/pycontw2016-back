@@ -1,0 +1,73 @@
+HTTrack3.48-21 launched on Wed, 21 Dec 2016 14:47:44 at https://tw.pycon.org/2016
+(httrack -%v https://tw.pycon.org/2016 -%I -O test )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:47:47	Warning: 	Found for https://tw.pycon.org/2016/
+14:47:47	Warning: 	File has moved from https://tw.pycon.org/2016/ to /2016/en-us/
+14:51:28	Warning: 	Found for https://tw.pycon.org/2016/en-us/dashboard/
+14:51:28	Warning: 	File has moved from https://tw.pycon.org/2016/en-us/dashboard/ to /2016/en-us/accounts/login/?next=/2016/en-us/dashboard/
+14:51:46	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/fonts/bootstrap/glyphicons-halflings-regular.eot (from https://tw.pycon.org/2016/static/CACHE/css/21d1c305ea3a.css)
+14:52:23	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/fonts/bootstrap/glyphicons-halflings-regular.eot? (from https://tw.pycon.org/2016/static/CACHE/css/21d1c305ea3a.css)
+14:52:23	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/fonts/bootstrap/glyphicons-halflings-regular.woff2 (from https://tw.pycon.org/2016/static/CACHE/css/21d1c305ea3a.css)
+14:52:41	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/fonts/bootstrap/glyphicons-halflings-regular.woff (from https://tw.pycon.org/2016/static/CACHE/css/21d1c305ea3a.css)
+14:52:41	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/fonts/bootstrap/glyphicons-halflings-regular.ttf (from https://tw.pycon.org/2016/static/CACHE/css/21d1c305ea3a.css)
+14:52:52	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/fonts/bootstrap/glyphicons-halflings-regular.svg (from https://tw.pycon.org/2016/static/CACHE/css/21d1c305ea3a.css)
+14:53:18	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/static/images/og_sprint.png (from https://tw.pycon.org/2016/en-us/events/sprints/)
+14:53:24	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/Popover%20requires%20tooltip.js/ (from https://tw.pycon.org/2016/static/CACHE/js/6c8feda299eb.js)
+14:53:27	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/schedule/Popover%20requires%20tooltip.js/ (from https://tw.pycon.org/2016/static/CACHE/js/da4a6457495b.js)
+14:53:49	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/schedule/destroy.dot/ (from https://tw.pycon.org/2016/static/CACHE/js/da4a6457495b.js)
+14:54:06	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/schedule/update.dot/ (from https://tw.pycon.org/2016/static/CACHE/js/da4a6457495b.js)
+14:54:06	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/schedule/isTruncated.dot/ (from https://tw.pycon.org/2016/static/CACHE/js/da4a6457495b.js)
+14:54:29	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/schedule/originalContent.dot/ (from https://tw.pycon.org/2016/static/CACHE/js/da4a6457495b.js)
+14:54:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/schedule/resize.dot/ (from https://tw.pycon.org/2016/static/CACHE/js/da4a6457495b.js)
+14:57:16	Error: 	"Not Found" (404) at link https://tw.pycon.org/site_media/static/img/loading.gif (from https://tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/)
+14:57:17	Error: 	"Not Found" (404) at link https://tw.pycon.org/site_media/static/img/closelabel.png (from https://tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/)
+14:57:42	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/Popover%20requires%20tooltip.js/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/GET/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Warning: 	Moved Temporarily for https://tw.pycon.org/
+14:57:44	Warning: 	File has moved from https://tw.pycon.org/ to https://tw.pycon.org/2016/
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/lib/vectortile.js/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/lib/vectortilefeature.js/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/lib/vectortilelayer.js/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/vectortilefeature.js/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/POST/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:44	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/venue/ol.source.XYZ/ (from https://tw.pycon.org/2016/static/CACHE/js/40df83310361.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/GET/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/codemirror/addon/edit/continuelist.js/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/codemirror/addon/display/fullscreen.js/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/codemirror/mode/markdown/markdown.js/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/codemirror/addon/mode/overlay.js/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/codemirror/mode/gfm/gfm.js/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:45	Error: 	"Not Found" (404) at link https://tw.pycon.org/2016/en-us/events/talk/70169571679535177/codemirror/mode/xml/xml.js/ (from https://tw.pycon.org/2016/static/js/vendors/simplemde.js)
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/robots.txt
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/robots.txt and https://tw.pycon.org/robots.txt
+14:57:46	Warning: 	Warning moved treated for tw.pycon.org/robots.txt (real one is https://tw.pycon.org/robots.txt)
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/2013/venue/
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/2013/venue/ and https://tw.pycon.org/2013/venue/
+14:57:46	Warning: 	File has moved from tw.pycon.org/2013/venue/ to https://tw.pycon.org/2013/venue/
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/zh-tw/2013/blog/2012/11/21/call-for-proposals-zh/
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/zh-tw/2013/blog/2012/11/21/call-for-proposals-zh/ and https://tw.pycon.org/zh-tw/2013/blog/2012/11/21/call-for-proposals-zh/
+14:57:46	Warning: 	File has moved from tw.pycon.org/zh-tw/2013/blog/2012/11/21/call-for-proposals-zh/ to https://tw.pycon.org/zh-tw/2013/blog/2012/11/21/call-for-proposals-zh/
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-en/
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-en/ and https://tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-en/
+14:57:46	Warning: 	File has moved from tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-en/ to https://tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-en/
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/2013/zh/blog/2012/11/21/how-to-pycon-taiwan-zh/
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/2013/zh/blog/2012/11/21/how-to-pycon-taiwan-zh/ and https://tw.pycon.org/2013/zh/blog/2012/11/21/how-to-pycon-taiwan-zh/
+14:57:46	Warning: 	File has moved from tw.pycon.org/2013/zh/blog/2012/11/21/how-to-pycon-taiwan-zh/ to https://tw.pycon.org/2013/zh/blog/2012/11/21/how-to-pycon-taiwan-zh/
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/2013/zh/blog/2013/04/09/pycon-taiwan-2013-financial-aid-zh/
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/2013/zh/blog/2013/04/09/pycon-taiwan-2013-financial-aid-zh/ and https://tw.pycon.org/2013/zh/blog/2013/04/09/pycon-taiwan-2013-financial-aid-zh/
+14:57:46	Warning: 	File has moved from tw.pycon.org/2013/zh/blog/2013/04/09/pycon-taiwan-2013-financial-aid-zh/ to https://tw.pycon.org/2013/zh/blog/2013/04/09/pycon-taiwan-2013-financial-aid-zh/
+14:57:46	Warning: 	Moved Permanently for tw.pycon.org/zh-tw/2013/blog/
+14:57:46	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/zh-tw/2013/blog/ and https://tw.pycon.org/zh-tw/2013/blog/
+14:57:46	Warning: 	File has moved from tw.pycon.org/zh-tw/2013/blog/ to https://tw.pycon.org/zh-tw/2013/blog/
+14:57:48	Error: 	"Not Found" (404) at link https://tw.pycon.org/2013/zh/blog/2012/11/21/call-for-proposals-zh/ (from https://tw.pycon.org/2013/zh/blog/)
+14:57:49	Warning: 	Moved Permanently for tw.pycon.org/2013/
+14:57:49	Warning: 	Redirected link is identical because of 'URL Hack' option: tw.pycon.org/2013/ and https://tw.pycon.org/2013/
+14:57:49	Warning: 	File has moved from tw.pycon.org/2013/ to https://tw.pycon.org/2013/
+
+HTTrack Website Copier/3.48-21 mirror complete in 10 minutes 5 seconds : 370 links scanned, 326 files written (52619481 bytes overall) [49790010 bytes received at 82297 bytes/sec], 4216719 bytes transferred using HTTP compression in 160 files, ratio 27%, 5.6 requests per connection
+(32 errors, 30 warnings, 0 messages)

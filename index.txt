@@ -1,0 +1,771 @@
+allen
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	=2
+	(2)
+and
+	2 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	=2
+	(2)
+beazley
+	2 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	=4
+	(4)
+bgimg_logoicon_purple
+	2 tw.pycon.org/2016/static/images/bg_section-conf8a89.svg
+	=2
+	(2)
+bgimg_logoicon_yellow
+	2 tw.pycon.org/2016/static/images/bg_section-intro8a89.svg
+	=2
+	(2)
+blog
+	2 tw.pycon.org/2013/zh/feed/general/index.html
+	=2
+	(2)
+building
+	2 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	=2
+	(2)
+click
+	ignored (24)
+copy
+	2 tw.pycon.org/2016/static/images/bg_section-sponsorship8a89.svg
+	=2
+	(2)
+cramer
+	2 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	=4
+	(4)
+created
+	ignored (7)
+david
+	ignored (9)
+decaluwe
+	2 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	=4
+	(4)
+designing
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	=2
+	(2)
+digital
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	=2
+	(2)
+downey
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	=2
+	(2)
+epistemology
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	=2
+	(2)
+everybody
+	2 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	=2
+	(2)
+general
+	2 tw.pycon.org/2013/zh/feed/general/index.html
+	=2
+	(2)
+hardware
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	=2
+	(2)
+has
+	ignored (24)
+here
+	ignored (24)
+http
+	ignored (7)
+https
+	2 index.html
+	=2
+	(2)
+jan
+	2 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	=4
+	(4)
+making
+	2 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	=2
+	(2)
+moved
+	ignored (24)
+myhdl
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	=2
+	(2)
+page
+	ignored (24)
+pays
+	2 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	=2
+	(2)
+photos
+	2 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	=2
+	(2)
+pycon
+	ignored (104)
+pycontw
+	ignored (9)
+pyhug
+	2 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	=2
+	(2)
+python
+	ignored (7)
+pythonic
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	=2
+	(2)
+scale
+	2 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	=2
+	(2)
+script
+	ignored (8894)
+sketch
+	ignored (7)
+slides
+	2 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	=2
+	(2)
+sponsorship
+	2 tw.pycon.org/2016/static/images/bg_section-sponsorship8a89.svg
+	=2
+	(2)
+t-shirt
+	ignored (7)
+taipei.py
+	2 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	=2
+	(2)
+taiwan
+	ignored (99)
+think
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	=2
+	(2)
+videos
+	2 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	=2
+	(2)
+with
+	ignored (12)
+xxl
+	2 tw.pycon.org/2013/zh/feed/general/index.html
+	=2
+	(2)
+yukihiro
+	2 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+.pycon.org/2016/static/images/bg_section-conf8a89.svg
+	2 tw.pycon.org/2016/static/images/bg_section-intro8a89.svg
+	2 tw.pycon.org/2016/static/images/bg_section-sponsorship8a89.svg
+	=10
+/12/11/registration-hiring/index.html
+	2 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	2 tw.pycon.org/2013/zh/blog/index.html
+	2 tw.pycon.org/2013/zh/feed/general/index.html
+	2 tw.pycon.org/2013/zh/index.html
+	2 tw.pycon.org/2013/zh/program/index.html
+	2 tw.pycon.org/2013/zh/registration/index.html
+	2 tw.pycon.org/2013/zh/speaker/index.html
+	2 tw.pycon.org/2013/zh/sponsors/index.html
+	2 tw.pycon.org/2013/zh/tutorial/index.html
+	2 tw.pycon.org/2013/zh/venue/index.html
+	=82
+/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/about/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/registration-hiring/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2012/12/11/sponsor-gp-hiring-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/21/pycontw-2013survey/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/01/28/pycontw-buddy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/05/everybody-pays-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/keynote-speaker-david-beazley-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/07/pycontw-2013-1st-survey-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/08/keynote-speaker-david-cramer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/18/keynote-speaker-jan-decaluwe-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/21/pycontw-2013-cfp-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/03/27/pycontw-2013-talks-report-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/01/panel-guido-larry-yukihiro-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/09/t-shirt-size/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/16/pycon-taiwan-2013-registration-surpass-2012/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/25/early-bird-tickets-extension-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/david-beazley-making-python-3-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/04/29/pycon-reception-call-for-performer-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/08/david-cramer-building-scale-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/allen-downey-pythonic-epistemology-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/14/jan-decaluwe-keynote-myhdl-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/16/invitation-bazaar-folks-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/22/reminders-participants-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/05/26/pyhug-and-taipeipy-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/2013/06/24/slides-photos-videos-zh/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/blog/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/program/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/registration/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/speaker/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/sponsors/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/tutorial/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	14 tw.pycon.org/2013/zh/venue/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27349121996161025/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27349121996161025/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27349121996161025/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27419967834030082/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27419967834030082/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27419967834030082/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27429730160476163/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27429730160476163/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/27429730160476163/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/35734163478806534/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/35734163478806534/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/35734163478806534/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/39018216764211208/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/39018216764211208/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/39018216764211208/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/39346130420498441/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/39346130420498441/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/39346130420498441/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/42830763023925258/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/42830763023925258/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/42830763023925258/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/52458110886871052/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/52458110886871052/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/52458110886871052/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/53334812580118541/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/53334812580118541/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/53334812580118541/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56754637675429904/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56754637675429904/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56754637675429904/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56770512839245841/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56770512839245841/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56770512839245841/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56868979343360019/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56868979343360019/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56868979343360019/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56874546946375700/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56874546946375700/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/56874546946375700/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/57694625669840919/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/57694625669840919/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/57694625669840919/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58446570282024986/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58446570282024986/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58446570282024986/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58487583520325660/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58487583520325660/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58487583520325660/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58488304638623773/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58488304638623773/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58488304638623773/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58534680193925150/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58534680193925150/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58534680193925150/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58550195947831327/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58550195947831327/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/58550195947831327/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/59143618476113957/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/59143618476113957/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/59143618476113957/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/62015679733170217/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/62015679733170217/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/62015679733170217/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/66630011804713004/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/66630011804713004/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/66630011804713004/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/67002934621110318/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/67002934621110318/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/67002934621110318/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/67738180727603248/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/67738180727603248/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/67738180727603248/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68637427517882417/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68637427517882417/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68637427517882417/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68743273514008626/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68743273514008626/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68743273514008626/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68823578639859763/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68823578639859763/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/68823578639859763/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69099923227803701/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69099923227803701/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69099923227803701/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69113918303240246/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69113918303240246/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69113918303240246/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69186595164520503/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69186595164520503/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69186595164520503/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69195601836769336/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69195601836769336/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69195601836769336/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69307878699171897/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69307878699171897/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69307878699171897/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69477625352945724/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69477625352945724/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69477625352945724/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69816036404232254/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69816036404232254/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69816036404232254/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69816515947397183/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69816515947397183/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69816515947397183/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69827266518974528/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69827266518974528/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69827266518974528/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69843418095812674/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69843418095812674/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/69843418095812674/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70022152522301510/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70022152522301510/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70022152522301510/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70089712156541000/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70089712156541000/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70089712156541000/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70169571679535177/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70169571679535177/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/70169571679535177/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/2b-or-not-2b-blockchain-and-big-data/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/2b-or-not-2b-blockchain-and-big-data/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/2b-or-not-2b-blockchain-and-big-data/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/ipython-jupyter-for-quantitative-finance-analysis/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/ipython-jupyter-for-quantitative-finance-analysis/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/ipython-jupyter-for-quantitative-finance-analysis/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/kyper-cloud-daas/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/kyper-cloud-daas/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/kyper-cloud-daas/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/電子支付第三方支付法律議題/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/電子支付第三方支付法律議題/index.html
+	4 tw.pycon.org/2016/en-us/events/talk/sponsored/電子支付第三方支付法律議題/index.html
+	3 tw.pycon.org/2016/en-us/venue/accommodation/index.html
+	3 tw.pycon.org/2016/en-us/venue/accommodation/index.html
+	3 tw.pycon.org/2016/en-us/venue/index.html
+	3 tw.pycon.org/2016/en-us/venue/index.html
+	2 tw.pycon.org/2016/en-us/about/code-of-conduct/index.html
+	2 tw.pycon.org/2016/en-us/about/pycontw/index.html
+	2 tw.pycon.org/2016/en-us/about/staff/index.html
+	2 tw.pycon.org/2016/en-us/accounts/login/index.html
+	2 tw.pycon.org/2016/en-us/accounts/login/index9896.html
+	2 tw.pycon.org/2016/en-us/accounts/password-reset/index.html
+	2 tw.pycon.org/2016/en-us/accounts/signup/index.html
+	2 tw.pycon.org/2016/en-us/events/bof/index.html
+	2 tw.pycon.org/2016/en-us/events/keynotes/index.html
+	2 tw.pycon.org/2016/en-us/events/overview/index.html
+	2 tw.pycon.org/2016/en-us/events/pyday/index.html
+	2 tw.pycon.org/2016/en-us/events/schedule/index.html
+	2 tw.pycon.org/2016/en-us/events/sprints/index.html
+	2 tw.pycon.org/2016/en-us/events/talks/index.html
+	2 tw.pycon.org/2016/en-us/events/tutorials/index.html
+	2 tw.pycon.org/2016/en-us/index.html
+	2 tw.pycon.org/2016/en-us/registration/financial-aid/index.html
+	2 tw.pycon.org/2016/en-us/registration/ticket-info/index.html
+	2 tw.pycon.org/2016/en-us/sponsors/index.html
+	=7302
